@@ -6,7 +6,7 @@
 
 > **flare@1K $0.0085; sunburst@1K $0.0085; flare@2K $0.014** — flat per-unit billing through the OpenAI-compatible APIMart gateway, $1 minimum top-up.
 
-**[Live pricing](https://apimart.ai/pricing)** · **[Get an API key](https://apimart.ai/keys)**
+**[Live pricing](https://go.apimart.ai/k-c6de00)** · **[Get an API key](https://go.apimart.ai/k-768090)**
 
 Everything here refers to **gpt-image-2.5** — also written **gptimage2.5** or **gpt image 2.5**.
 
