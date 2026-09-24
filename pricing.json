@@ -1,0 +1,15 @@
+{
+  "repo": "gptimage2.5-gpt-image-2.5-gateway",
+  "model": "gpt-image-2.5-ext",
+  "display": "GPT Image 2.5",
+  "variant": "gateway",
+  "snapshot": "2026-09-24",
+  "unit": "usd_per_image",
+  "tiers": {
+    "flare@1K": 0.0085,
+    "sunburst@1K": 0.0085,
+    "flare@2K": 0.014,
+    "sunburst@2K": 0.014
+  },
+  "source": "https://apimart.ai/en/pricing"
+}
